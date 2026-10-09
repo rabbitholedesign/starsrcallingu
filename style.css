@@ -26,7 +26,7 @@
 .rhd-starsrcalling-textbox {
     font-family: "Cormorant Garamond", serif;
     font-size: 16px;
-    color: #CACAEB;
+    color: #D0D0F7;
     text-align: justify;
 }
 
@@ -109,14 +109,14 @@
 
 .rhd-starsrcalling-star-top {
     top: -18px;
-    left: 48%;
+    left: 49%;
     transform: translateX(-50%);
     font-size: 18px;
 }
 
 .rhd-starsrcalling-star-bottom {
     bottom: -18px;
-    left: 48%;
+    left: 49%;
     transform: translateX(-50%);
     font-size: 18px;
 }
