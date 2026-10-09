@@ -3,7 +3,7 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css');
 
 #rhd-starsrcalling-box {
-    width: 500px;
+    width: 90%;
     background-color: #0F0B24;
     border-radius: 10px;
     display: flex;
@@ -43,7 +43,7 @@
 .rhd-starsrcalling-content {
     flex: 1;
     border: 1px solid rgba(190, 205, 255, .22);
-    padding: 28px;
+    padding: 25px;
     position: relative;
 }
 
@@ -59,8 +59,8 @@
 }
 
 .rhd-starsrcalling-diamond {
-    width: 125px;
-    height: 125px;
+    width: 100px;
+    height: 100px;
     margin: 0;
     position: relative;
     overflow: hidden;
@@ -77,8 +77,8 @@
 }
 
 .rhd-starsrcalling-diamond-wrap {
-    width: 160px;
-    height: 160px;
+    width: 140px;
+    height: 140px;
     margin: 30px auto;
     position: relative;
     display: flex;
@@ -89,8 +89,8 @@
 
 .rhd-starsrcalling-diamond-border {
     position: absolute;
-    width: 140px;
-    height: 140px;
+    width: 120px;
+    height: 120px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) rotate(45deg);
