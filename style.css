@@ -28,7 +28,7 @@ font-size:16px;}
 .right-side{
 width: 50px;
 border-radius:10px;
-background-image: url("https://i.imgur.com/xN7a8AL.png");
+background-image: url("./flower-side.png");
 background-repeat: repeat-y;
 background-size: contain;
 background-position: center;
