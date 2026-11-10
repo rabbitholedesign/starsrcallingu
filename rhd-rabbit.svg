@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <g fill="#E8E6EF">
+    <!-- Bal fül -->
+    <path d="M13 20 C10 15 7 5 10 2 C13 0 17 11 18 19 Z"/>
+    <!-- Jobb fül -->
+    <path d="M22 19 C23 11 27 0 30 2 C33 5 29 15 27 20 Z"/>
+    <!-- Kerek nyuszifej -->
+    <path d="
+      M20 14
+      C27 14 33 19 33 26
+      C33 33 27 37 20 37
+      C13 37 7 33 7 26
+      C7 19 13 14 20 14
+      Z"/>
+  </g>
+</svg>
