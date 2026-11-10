@@ -212,15 +212,34 @@
     opacity: .75;
     transition: .3s ease;
     cursor: default;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
 }
 
-.rhd-starsrcalling-credit img {
+.rhd-starsrcalling-rabbit {
+    display: inline-block;
     width: 11px;
     height: 11px;
-    vertical-align: middle;
-    margin: 0 4px;
+    flex-shrink: 0;
+    background-color: #E8E6EF;
+    -webkit-mask: url("https://rabbitholedesign.github.io/starsrcallingu/rhd-rabbit.svg") center / contain no-repeat;
+    mask: url("https://rabbitholedesign.github.io/starsrcallingu/rhd-rabbit.svg") center / contain no-repeat;
+}
+
+.rhd-starsrcalling-credit-full {
+    display: none;
 }
 
 .rhd-starsrcalling-credit:hover {
     opacity: 1;
+}
+
+.rhd-starsrcalling-credit:hover .rhd-starsrcalling-credit-short {
+    display: none;
+}
+
+.rhd-starsrcalling-credit:hover .rhd-starsrcalling-credit-full {
+    display: inline;
 }
