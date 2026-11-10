@@ -200,3 +200,27 @@
     background: #B1B1C9;
     color: #0F0B24;
 }
+
+.rhd-starsrcalling-credit {
+    font-family: Arial, sans-serif;
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #E8E6EF;
+    text-align: center;
+    margin-top: 8px;
+    opacity: .75;
+    transition: .3s ease;
+    cursor: default;
+}
+
+.rhd-starsrcalling-credit img {
+    width: 11px;
+    height: 11px;
+    vertical-align: middle;
+    margin: 0 4px;
+}
+
+.rhd-starsrcalling-credit:hover {
+    opacity: 1;
+}
