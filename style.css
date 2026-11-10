@@ -246,3 +246,11 @@
 .rhd-starsrcalling-credit {
     text-decoration: none;
 }
+.rhd-starsrcalling-credit,
+.rhd-starsrcalling-credit:link,
+.rhd-starsrcalling-credit:visited,
+.rhd-starsrcalling-credit:hover,
+.rhd-starsrcalling-credit:active {
+    color: #BFB4CF !important;
+    text-decoration: none !important;
+}
