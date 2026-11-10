@@ -206,7 +206,7 @@
     font-size: 9px;
     font-weight: 600;
     letter-spacing: 2px;
-    color: #E8E6EF;
+    color: #BFB4CF;
     text-align: center;
     margin-top: 8px;
     opacity: .75;
@@ -223,7 +223,7 @@
     width: 11px;
     height: 11px;
     flex-shrink: 0;
-    background-color: #E8E6EF;
+    background-color: #BFB4CF;
     -webkit-mask: url("https://rabbitholedesign.github.io/starsrcallingu/rhd-rabbit.svg") center / contain no-repeat;
     mask: url("https://rabbitholedesign.github.io/starsrcallingu/rhd-rabbit.svg") center / contain no-repeat;
 }
