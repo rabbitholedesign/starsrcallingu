@@ -243,3 +243,6 @@
 .rhd-starsrcalling-credit:hover .rhd-starsrcalling-credit-full {
     display: inline;
 }
+.rhd-starsrcalling-credit {
+    text-decoration: none;
+}
